@@ -1,0 +1,27 @@
+
+hearts.png
+size: 256, 256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+threeheart
+  rotate: false
+  xy: 1, 133
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+twoheart
+  rotate: false
+  xy: 1, 67
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+oneheart
+  rotate: false
+  xy: 1, 1
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1

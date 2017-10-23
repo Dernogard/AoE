@@ -1,0 +1,33 @@
+
+Twilight_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Twilight
+  rotate: false
+  xy: 1, 115
+  size: 1280, 69
+  orig: 1280, 69
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 1, 17
+  size: 1152, 96
+  orig: 1152, 96
+  offset: 0, 0
+  index: -1
+Enemies
+  rotate: false
+  xy: 1283, 56
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+spell
+  rotate: false
+  xy: 1, 1
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

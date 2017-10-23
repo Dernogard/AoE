@@ -1,0 +1,33 @@
+
+Rarity.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rarity_stand_2
+  rotate: false
+  xy: 1, 116
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+rarity_stand_3
+  rotate: false
+  xy: 1, 1
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+rarity_sit_fall
+  rotate: false
+  xy: 131, 101
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+rarity_stand
+  rotate: false
+  xy: 243, 119
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1

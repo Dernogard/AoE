@@ -1,0 +1,33 @@
+
+guiAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ScreenMenuFon
+  rotate: false
+  xy: 1, 369
+  size: 830, 515
+  orig: 830, 515
+  offset: 0, 0
+  index: -1
+DialogWindow
+  rotate: false
+  xy: 1, 67
+  size: 830, 300
+  orig: 830, 300
+  offset: 0, 0
+  index: -1
+ScreenMenuTitle
+  rotate: false
+  xy: 833, 694
+  size: 840, 190
+  orig: 840, 190
+  offset: 0, 0
+  index: -1
+MenuSelected
+  rotate: false
+  xy: 1, 1
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1

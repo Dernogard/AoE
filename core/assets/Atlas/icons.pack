@@ -1,0 +1,103 @@
+
+icons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Applejack
+  rotate: false
+  xy: 1, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Rainbow Dash_Gray
+  rotate: false
+  xy: 1, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Applejack_Gray
+  rotate: false
+  xy: 259, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Rainbow Dash
+  rotate: false
+  xy: 1, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Twilight Sparkle_Gray
+  rotate: false
+  xy: 259, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Rarity
+  rotate: false
+  xy: 517, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Pinkie Pie
+  rotate: false
+  xy: 259, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Rarity_Gray
+  rotate: false
+  xy: 517, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Fluttershy
+  rotate: false
+  xy: 775, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Pinkie Pie_Gray
+  rotate: false
+  xy: 517, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Fluttershy_Gray
+  rotate: false
+  xy: 775, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Twilight Sparkle
+  rotate: false
+  xy: 1033, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+locked-padlock
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Lyra_Back
+  rotate: false
+  xy: 775, 317
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

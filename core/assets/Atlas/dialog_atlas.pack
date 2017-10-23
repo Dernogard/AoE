@@ -1,0 +1,145 @@
+
+dialog_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dialog_violent
+  rotate: false
+  xy: 1, 1415
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+dialog_blue
+  rotate: false
+  xy: 1, 1213
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+dialog_orange
+  rotate: false
+  xy: 503, 1415
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+dialog_pink
+  rotate: false
+  xy: 1, 1011
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+dialog_yellow
+  rotate: false
+  xy: 503, 1213
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+dialog_rarity
+  rotate: false
+  xy: 1, 809
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+Twi_think
+  rotate: false
+  xy: 503, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Twi_think2
+  rotate: false
+  xy: 1, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Twi-serious
+  rotate: false
+  xy: 503, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Applejack-smile
+  rotate: false
+  xy: 705, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pinkie_listen_something
+  rotate: false
+  xy: 1, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Rarity_Worried
+  rotate: false
+  xy: 203, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Rarity_Emm
+  rotate: false
+  xy: 705, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Twi_smile
+  rotate: false
+  xy: 1, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Applejack-scared
+  rotate: false
+  xy: 203, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Twi-v_ahue
+  rotate: false
+  xy: 405, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Rarity_Eww
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Twi_pff
+  rotate: false
+  xy: 203, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Applejack-behaviour
+  rotate: false
+  xy: 405, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Applejack-lookdown
+  rotate: false
+  xy: 607, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

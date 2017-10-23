@@ -1,0 +1,47 @@
+
+signs.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SignCredit_on
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SignLeft_off
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SignCredit_off
+  rotate: false
+  xy: 245, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SignRight_off
+  rotate: false
+  xy: 367, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SignRight_on
+  rotate: false
+  xy: 489, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SignLeft_on
+  rotate: false
+  xy: 611, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

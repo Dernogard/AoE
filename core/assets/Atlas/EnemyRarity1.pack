@@ -1,0 +1,47 @@
+
+EnemyRarity1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bat
+  rotate: false
+  xy: 1, 336
+  size: 800, 120
+  orig: 800, 120
+  offset: 0, 0
+  index: -1
+BearBee
+  rotate: false
+  xy: 1, 1
+  size: 256, 333
+  orig: 256, 333
+  offset: 0, 0
+  index: -1
+murena_close
+  rotate: false
+  xy: 259, 78
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+murena_open
+  rotate: false
+  xy: 389, 78
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+water_wave
+  rotate: false
+  xy: 519, 184
+  size: 183, 150
+  orig: 183, 150
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 803, 415
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
